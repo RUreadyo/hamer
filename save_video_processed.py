@@ -10,7 +10,6 @@ task_names = [
     "ironing",
     "pickplacebanana",
     "pickplacebowl",
-    "pickplacemustard",
     "wiping",
     "pickupbear"
 ]
